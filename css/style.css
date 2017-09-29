@@ -485,16 +485,16 @@ a:hover {
 }
 
 
-.about {
+.about1 {
 	background:#eee;
 	padding:50px;
 }
 
-.about h2 {
+.about1 h2 {
 	margin-bottom:30px;
 }
 
-.about img {
+.about1 img {
 	margin-bottom:30px;
 	border-radius:6px;
 }
