@@ -11,7 +11,15 @@
 /* ==== overwrite bootstrap standard ==== */
 @import url('animate.css');
 
+/* Custom CSS */
 
+img.logos {
+  height: 60px;
+  margin-top: 6px;
+  max-width: 100%;
+  }
+
+/* Theme CSS */
 
 body {
 	font-family:'Open Sans', Arial, sans-serif;
