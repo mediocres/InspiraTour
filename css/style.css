@@ -11,7 +11,25 @@
 /* ==== overwrite bootstrap standard ==== */
 @import url('animate.css');
 
+/* Custom CSS */
 
+table.logos { 
+  table-layout: fixed;
+  width: calc(100% - 50px);
+}
+
+td.logos { 
+  width: 25%;
+  font-size: 6pt;
+}
+
+img.logos {
+  height: 60px;
+  margin-top: 6px;
+  max-width: 100%;
+  }
+
+/* Theme CSS */
 
 body {
 	font-family:'Open Sans', Arial, sans-serif;
