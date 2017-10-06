@@ -3,7 +3,7 @@ $(document).ready(function () {
 		var url = window.location.pathname;
 		var filename = url.substring(url.lastIndexOf("/") + 1, url.lastIndexOf("."));
 		var active = document.getElementById(filename);
-		if (filename != undefined){
+		if (active != undefined){
 			active.classList.add("active");
 		};
 	});
